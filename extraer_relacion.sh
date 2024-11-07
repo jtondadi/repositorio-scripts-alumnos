@@ -4,7 +4,7 @@
 # pasar directorios (Horas) con titulos (certificados con Horas)
 # en pdf en una carpeta separada 
 # creamos directorios (ordenado de mayor a menor)
-# verificamos que sea menor de 10 (orden)
+# verificamos que sea menor de 10 (orden); se incorporan "00"; hasta 99 colocar "0" delante del nombre) [procesamiento en la línea 28]
 # y asignamos el nombre del archivo
 #
 # extraer archivo de modo descendente, y por directorios
